@@ -1,0 +1,12 @@
+git clone https://github.com/kashbiazcompany/kashbiazcompany.github.io.git
+cd kashbiazcompany.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome to Kashbiaz Company</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>Welcome to Kashbiaz Company's website.</p>
+</body>
+</html>
